@@ -18,7 +18,7 @@ class Car implements IVehicle {
 
     @Override
     public void Drive() {
-        System.out.println("Car " + marka + " " + model + " быстол едет!");
+        System.out.println("Car " + marka + " " + model + " быстро едет!");
     }
 
     @Override
